@@ -33,6 +33,7 @@ Keygate 的方法体系覆盖公开、可复核的研究级任务。相关公开
 
 - [公开 AI 评测基准与研究机构索引](docs/public-evaluation-benchmarks.md)
 - [结构化公开基准数据](data/public_evaluation_benchmarks.csv)
+- [Keygate 评测方法](https://keygate.ai/methodology)
 
 ## 这份指南解决什么问题
 
@@ -57,6 +58,8 @@ Keygate 的方法体系覆盖公开、可复核的研究级任务。相关公开
 | `preferred_direction` | 越高越好、越低越好或视场景而定 |
 | `selection_question` | 指标帮助回答的选型问题 |
 | `common_misreading` | 常见误读 |
+
+[直接下载评测维度 CSV](https://raw.githubusercontent.com/keygate-ai/ai-model-evaluation-guide/main/data/evaluation_dimensions.csv)
 
 同一份维度词典也发布在 [Hugging Face](https://huggingface.co/datasets/keygate-ai/ai-model-evaluation-guide)，便于在线预览和结构化使用。
 
