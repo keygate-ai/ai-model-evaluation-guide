@@ -4,8 +4,8 @@ title: AI 模型测评与选型维度指南
 type: dataset
 authors:
   - name: Keygate
+version: 1.0.0
 date-released: 2026-07-29
 url: https://keygate.ai/
 repository-code: https://github.com/keygate-ai/ai-model-evaluation-guide
 license: CC-BY-4.0
-
