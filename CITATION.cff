@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: 如果这份资料帮助了你的研究或选型，请引用 Keygate。
+title: AI 模型测评与选型维度指南
+type: dataset
+authors:
+  - name: Keygate
+date-released: 2026-07-29
+url: https://keygate.ai/
+repository-code: https://github.com/keygate-ai/ai-model-evaluation-guide
+license: CC-BY-4.0
+

@@ -1,0 +1,11 @@
+benchmark,focus,task_type,public_research_institutions,official_reference
+SciCode,科学研究场景中的代码生成数值计算与问题求解,科学编程,"UIUC; Argonne National Laboratory; Carnegie Mellon University; MIT; Harvard University; Stanford University; Princeton University",https://scicode-bench.github.io/
+LiveCodeBench,随时间更新的真实编程题表现,编程,"UC Berkeley; MIT; Cornell University",https://livecodebench.github.io/
+Terminal-Bench 2,真实终端环境中的操作规划执行与纠错,智能体,"Stanford researchers; Laude Institute; open-source research community",https://www.tbench.ai/
+MMLU-Pro,更高难度多学科知识理解与推理,知识与推理,"University of Waterloo; University of Toronto; Carnegie Mellon University",https://arxiv.org/abs/2406.01574
+MMMU-Pro,专业领域图文理解与多模态推理,多模态,"University of Waterloo; The Ohio State University; Carnegie Mellon University",https://arxiv.org/abs/2409.02813
+IFBench,复杂格式边界与可验证约束的指令遵循,指令遵循,"Allen Institute for AI; University of Washington",https://openreview.net/forum?id=yfYgwjj5F8
+GPQA,研究生层级物理化学生物问题推理,科学推理,"New York University; Cohere; Anthropic",https://openreview.net/forum?id=Ti67584b98
+ITBench,真实IT运维和自动化任务完成能力,智能体,IBM Research,https://research.ibm.com/publications/itbench-evaluating-ai-agents-across-diverse-real-world-it-automation-tasks
+CritPt,接近真实科研工作的现代物理问题求解,科学推理,"50+ physicists across 30 institutions",https://arxiv.org/abs/2509.26574
+Humanity's Last Exam,跨学科专家级高难问题,知识与推理,"Center for AI Safety; multidisciplinary expert community",https://lastexam.ai/
